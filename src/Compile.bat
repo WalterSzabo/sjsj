@@ -1,0 +1,1 @@
+..\..\..\bamcompile.exe sjsj.bcp ..\SJSJ.exe

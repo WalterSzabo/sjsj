@@ -1,0 +1,5 @@
+; Bamcompile project file
+mainfile sjsj.php
+embed sjsj.php
+icon sjsj.ico
+compress
